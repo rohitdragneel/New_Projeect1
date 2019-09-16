@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this dont worlk
+=======
+de ja vu vvyvhvbn n
+>>>>>>> 730ddc5f8e4e364d8754e2573e37df6ab8d41944
